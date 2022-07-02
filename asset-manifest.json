@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/igdownloader/static/css/main.09f441ec.chunk.css",
+    "main.js": "/igdownloader/static/js/main.f178eea3.chunk.js",
+    "main.js.map": "/igdownloader/static/js/main.f178eea3.chunk.js.map",
+    "runtime-main.js": "/igdownloader/static/js/runtime-main.b8c11952.js",
+    "runtime-main.js.map": "/igdownloader/static/js/runtime-main.b8c11952.js.map",
+    "static/js/2.af476a1e.chunk.js": "/igdownloader/static/js/2.af476a1e.chunk.js",
+    "static/js/2.af476a1e.chunk.js.map": "/igdownloader/static/js/2.af476a1e.chunk.js.map",
+    "index.html": "/igdownloader/index.html",
+    "static/css/main.09f441ec.chunk.css.map": "/igdownloader/static/css/main.09f441ec.chunk.css.map",
+    "static/js/2.af476a1e.chunk.js.LICENSE.txt": "/igdownloader/static/js/2.af476a1e.chunk.js.LICENSE.txt",
+    "static/media/github-icon.f79f5873.svg": "/igdownloader/static/media/github-icon.f79f5873.svg",
+    "static/media/igtv-icon.2c122f47.svg": "/igdownloader/static/media/igtv-icon.2c122f47.svg",
+    "static/media/post-icon.4b5e2aea.svg": "/igdownloader/static/media/post-icon.4b5e2aea.svg",
+    "static/media/profile-icon.6992329f.svg": "/igdownloader/static/media/profile-icon.6992329f.svg",
+    "static/media/reel-icon.a14434b8.svg": "/igdownloader/static/media/reel-icon.a14434b8.svg",
+    "static/media/story-icon.2075475d.svg": "/igdownloader/static/media/story-icon.2075475d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8c11952.js",
+    "static/js/2.af476a1e.chunk.js",
+    "static/css/main.09f441ec.chunk.css",
+    "static/js/main.f178eea3.chunk.js"
+  ]
+}
