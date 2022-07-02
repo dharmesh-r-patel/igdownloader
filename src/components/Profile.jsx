@@ -27,8 +27,6 @@ const Profile = (props) => {
     async function fetchProfile() {
         const id = userId;
 
-        console.log('id', id)
-        console.log('process.env.REACT_APP_IG_PROFILE-1', process.env);
         const response = await fetch(
             `${process.env.REACT_APP_IG_PROFILE}${id}`,
             {
@@ -43,8 +41,6 @@ const Profile = (props) => {
         );
         const data = await response.json();
         try {
-
-            console.log('data', data);
             setResponseObj(data[0]);
         } catch (error) {
             console.log(error.message);

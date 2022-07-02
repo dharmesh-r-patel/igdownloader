@@ -2,8 +2,6 @@ const LoadedProfile = (props) => {
     const responseObj = props.responseObj;
     const responseError = responseObj.error_code;
 
-    console.log(responseObj);
-
     if (responseError) {
         return (
             <div className="error-page">

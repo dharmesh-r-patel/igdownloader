@@ -3,7 +3,6 @@ const LoadedReels = (props) => {
     // let downloadFileName = responseObj.user.username;
 
     let downloadFileName = "reel.mp4";
-    console.log(responseObj);
 
     // If no reel found
     if (responseObj.message) {
