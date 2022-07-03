@@ -1,2 +1,0 @@
-# igdownloader
-Instagram Downloader
